@@ -1,4 +1,3 @@
-# Shell_Scripting
 # 🚀 AWS Resource Listing Automation (Shell Script)
 
 ## 📖 Overview  
