@@ -1,13 +1,13 @@
-# 🚀 AWS Resource Listing Automation (Shell Script)
+# AWS Resource Listing Automation (Shell Script)
 
-## 📖 Overview  
+## Overview  
 This project provides a **Bash script** to automate the process of listing various **AWS resources** in a given AWS region. Instead of manually running AWS CLI commands, this script streamlines the process and ensures efficiency.  
 
 It supports multiple AWS services, including **EC2, S3, RDS, IAM, Lambda, Route53, CloudFront, DynamoDB, and more.**  
 
 ---
 
-## 📌 Features  
+## Features  
 ✅ Lists AWS resources dynamically based on user input  
 ✅ Supports multiple AWS services (EC2, S3, RDS, Lambda, etc.)  
 ✅ Validates AWS CLI installation and configuration before execution  
@@ -43,7 +43,7 @@ Before running the script, ensure you have the following:
 
 ---
 
-## 📥 Installation  
+## Installation  
 
 Clone this repository to your local system:  
 
