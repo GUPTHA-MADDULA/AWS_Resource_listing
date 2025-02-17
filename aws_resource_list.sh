@@ -4,7 +4,7 @@
 # Meta_data:
 #Author: M. Guptha
 #Version: v0.0.1
-#Date: 215-02-2025
+#Date: 15-02-2025
 #
 #Following are the supported AWS services by the script
 #1. EC2
